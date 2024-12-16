@@ -1,0 +1,22 @@
+
+
+Q1 : Qu'est-ce que le développement web, et pourquoi est-il essentiel dans le contexte d'Internet ?
+R1 : il fait référence à la création et à la maintenance de sites web et d'applications web. C'est essentiel pour une interaction optimale sur internet des clients.
+
+Q2 : Avez-vous entendu parler de HTML ? Si oui, que signifie HTML et quel est son principal objectif dans le développement web ?
+R2 : HyperText Markup Language décrit la structure de la page et son contenu.
+
+Q3 : Êtes-vous familier avec CSS ? Si oui, expliquez brièvement à quoi sert CSS dans le développement web.
+R3 : Cascading Style Sheets décrit à quoi ressemble un site et même dans une certaine mesure comment il répond à certains événements.
+
+
+Q4 : Avez-vous entendu parler de JavaScript ? Si oui, qu'est-ce que JavaScript et pourquoi est-il crucial pour créer des sites web interactifs ?
+R4 : JavaScript est le langage de programmation utilisé pour définir la logique et la fonction d'un site au- delà de la simple apparence. Tout calcul ou "réflexion" se fait en JavaScript.
+
+
+Q5 : Êtes-vous familier avec React et Node.js ? Si oui, fournissez une brève description de ce à quoi React et Node.js sont généralement utilisés dans le développement web.
+R5 : Non je ne suis pas familier avec ceci. Mais je peux dire que React est utilisé pour construire des interfaces utilisateur interactives et dynamiques, tandis que Node.js sert à développer des applications web côté serveur performantes et évolutives.
+
+
+Q6 : Pourquoi voulez-vous apprendre le développement web, et qu'espérez-vous réaliser en acquérant des compétences en HTML, CSS, JavaScript, React et Node.js ?
+R6 : Je désire pouvoir développer des sites internet moi même.
